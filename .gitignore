@@ -1,0 +1,16 @@
+History/
+Log/
+__Previews/
+Project Logs for*/
+OUTPUTS/
+outputs/
+output/
+Project Outputs for*/
+docs/
+*.pdf
+*.zip
+*.7z
+*.dtmp
+*.html
+*.txt
+*.htm
